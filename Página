@@ -31,6 +31,11 @@
 <body>
 <h1> <img src="https://www.learningwebdesign.com/5e/materials/ch04/bistro/blackgoose.png" alt="logo"> <br> Black Goose Bistro</h1>
 
+<ul> <!--Lista no ordenada, puntos-->
+    <li>The Restaurant</li>
+    <li>Catering</li>
+    <li>Location and Hours</li>
+</ul>
 <h2>The Restaurant</h2>
 <p>The Black Goose Bistro offers casual lunch and dinner fare in a relaxed atmosphere. The menu changes regularly to highlight the freshest local ingredients.</p>
 
@@ -40,5 +45,24 @@
 <h2>Location and hours</h2>
 <p>Seekonk, Massachusetts;
 Monday through Thursday 11am to 9pm; Friday and Saturday,11am to midnight. </p>
+
+<h1>Tapenade (Olive Spread)</h1>
+<p>This is a really simple dish. My father recommends:</p>
+<q>Make this the night before</q>
+<h3>Ingredients</h3>
+<ol> <!--Lista ordenada-->
+    <li> 8oz. jar sundried tomatoes</li>
+    <li>large garlic cloves</li>
+    <li>2/3 c. kalamata olives</li>
+    <li>t.capers</li>
+</ol>
+<h3>Instructions</h3>
+<blockquote> <!--Para aquello que se quiera escribir más a la izq y sea largo-->
+    <p>Combine tomatoes and garlic</p>
+    
+    <p>Add capers and olives</p>
+    <p>Serve</p>
+
+</blockquote>
 </body>
 </html>
